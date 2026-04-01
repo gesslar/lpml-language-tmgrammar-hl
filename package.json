@@ -1,0 +1,33 @@
+{
+  "name": "@gesslar/lpml-language-tmgrammar-hl",
+  "version": "1.0.0",
+  "license": "Unlicense",
+  "type": "module",
+  "main": "index.js",
+  "exports": {
+    ".": "./index.js",
+    "./lpml.tmLanguage.json": "./lpml.tmLanguage.json"
+  },
+  "files": [
+    "index.js",
+    "lpml.tmLanguage.json"
+  ],
+  "engines": {
+    "node": "24.14.1"
+  },
+  "publishConfig": {
+    "access": "public"
+  },
+  "keywords": [
+    "lpml",
+    "textmate",
+    "grammar",
+    "syntax-highlighting",
+    "shiki"
+  ],
+  "description": "TextMate grammar for LPML (LPC Markup Language) syntax highlighting",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gesslar/lpml-language-tmgrammar-hl.git"
+  }
+}
