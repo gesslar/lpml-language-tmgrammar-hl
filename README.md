@@ -85,4 +85,4 @@ import grammar from "@gesslar/lpml-language-tmgrammar-hl/lpml.tmLanguage.json" w
 
 ## License
 
-`@gesslar/lpml-language-tmgrammar-hl` is released into the public domain under the [Unlicense](LICENSE).
+`@gesslar/lpml-language-tmgrammar-hl` is released under the [0BSD](LICENSE.txt).
